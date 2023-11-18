@@ -2,7 +2,6 @@ dictionary.base
 dictionary.base.algorithm.trie
 dictionary.base.api
 dictionary.base.database
-dictionary.base.exceptions
 dictionary.base.utils
 dictionary.cli
 dictionary.cli.commands
